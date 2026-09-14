@@ -3,7 +3,8 @@ class Solution {
         int altitude = 0;
         int highest = 0;
 
-        for (int g : gain) {
+       for (int i = 0; i < gain.length; i++) {
+        int g=gain[i];
             altitude += g;
             highest = Math.max(highest, altitude);
         }

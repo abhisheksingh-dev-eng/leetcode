@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/1732-find-the-highest-altitude) |
+## Math
+|  |
+| ------- |
+| [2652-sum-multiples](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/2652-sum-multiples) |
 <!---LeetCode Topics End-->

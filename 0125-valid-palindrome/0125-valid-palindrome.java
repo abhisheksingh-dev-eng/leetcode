@@ -1,0 +1,29 @@
+class Solution {
+    public boolean isPalindrome(String s) {
+
+        // Convert to lowercase
+        s = s.toLowerCase();
+
+        // Remove non-alphanumeric characters
+        String clean = "";
+
+        for (int i = 0; i < s.length(); i++) {
+            char ch = s.charAt(i);
+
+            if ((ch >= 'a' && ch <= 'z') || 
+                (ch >= '0' && ch <= '9')) {
+                clean = clean + ch;
+            }
+        }
+
+        // Reverse the string
+        String reverse = "";
+
+        for (int i = clean.length() - 1; i >= 0; i--) {
+            reverse = reverse + clean.charAt(i);
+        }
+
+        // Compare
+        return clean.equals(reverse);
+    }
+}

@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/0009-palindrome-number) |
 | [2652-sum-multiples](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/2652-sum-multiples) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->

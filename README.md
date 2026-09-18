@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Prefix Sum
@@ -36,5 +37,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->

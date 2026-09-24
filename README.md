@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/0645-set-mismatch) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/0645-set-mismatch) |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/0645-set-mismatch) |

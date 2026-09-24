@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/0645-set-mismatch) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sorting
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/0009-palindrome-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/2235-add-two-integers) |
 | [2652-sum-multiples](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/2652-sum-multiples) |
 ## Two Pointers

@@ -1,60 +1,52 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
-       
 
-
-        List<List<Integer>> result = new ArrayList<>();
-
-        // Step 1: Sort the array
         Arrays.sort(nums);
 
-        for (int i = 0; i < nums.length - 2; i++) {
+        List<List<Integer>> ans = new ArrayList<>();
+
+        int n = nums.length;
+
+        for (int i = 0; i < n - 2; i++) {
 
             // Skip duplicate first elements
             if (i > 0 && nums[i] == nums[i - 1]) {
                 continue;
             }
 
-            // Since array is sorted, no possible triplet
-            if (nums[i] > 0) {
-                break;
-            }
+            int l = i + 1;
+            int r = n - 1;
 
-            int left = i + 1;
-            int right = nums.length - 1;
+            while (l < r) {
 
-            while (left < right) {
-                int sum = nums[i] + nums[left] + nums[right];
+                int sum = nums[i] + nums[l] + nums[r];
 
                 if (sum == 0) {
-                    result.add(Arrays.asList(
-                        nums[i],
-                        nums[left],
-                        nums[right]
-                    ));
 
-                    // Skip duplicate second elements
-                    while (left < right && nums[left] == nums[left + 1]) {
-                        left++;
+                    ans.add(Arrays.asList(nums[i], nums[l], nums[r]));
+
+                    // Skip duplicate left values
+                    while (l < r && nums[l] == nums[l + 1]) {
+                        l++;
                     }
 
-                    // Skip duplicate third elements
-                    while (left < right && nums[right] == nums[right - 1]) {
-                        right--;
+                    // Skip duplicate right values
+                    while (l < r && nums[r] == nums[r - 1]) {
+                        r--;
                     }
 
-                    left++;
-                    right--;
+                    l++;
+                    r--;
 
                 } else if (sum < 0) {
-                    left++;
+                    l++;
+
                 } else {
-                    right--;
+                    r--;
                 }
             }
         }
 
-        return result;
+        return ans;
     }
 }
-    

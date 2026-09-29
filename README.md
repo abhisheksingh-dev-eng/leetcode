@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/1732-find-the-highest-altitude) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -80,8 +81,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Linked List
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/0876-middle-of-the-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Matrix
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->

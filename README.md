@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/0088-merge-sorted-array) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |

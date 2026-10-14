@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/2235-add-two-integers) |
 | [2652-sum-multiples](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/2652-sum-multiples) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -134,5 +135,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->

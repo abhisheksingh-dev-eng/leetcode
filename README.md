@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Array
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1991-find-the-middle-index-in-array](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1833-maximum-ice-cream-bars](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Depth-First Search
@@ -158,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->

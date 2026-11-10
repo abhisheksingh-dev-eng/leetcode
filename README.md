@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3693-climbing-stairs-ii](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3693-climbing-stairs-ii](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Matrix
 |  |
 | ------- |

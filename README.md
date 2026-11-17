@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/0389-find-the-difference) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/0645-set-mismatch) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/0067-add-binary) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/2235-add-two-integers) |
 | [2652-sum-multiples](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/2652-sum-multiples) |
@@ -181,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/abhisheksingh-dev-eng/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
